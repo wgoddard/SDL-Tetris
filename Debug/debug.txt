@@ -1,0 +1,9 @@
+<Fri Jul 03 14:13:03 2009> Failed to load music.  audio/music.ogg
+<Fri Jul 03 14:13:03 2009> Failed to load audio/drop.wav
+<Fri Jul 03 14:13:03 2009> Failed to load audio/rotation.wavn
+<Fri Jul 03 14:13:03 2009> Failed to load audio/row.wav
+<Fri Jul 03 14:13:03 2009> Failed to load audio/tetra.wav
+<Fri Jul 03 14:13:03 2009> Failed to load audio/levelup.wav
+<Fri Jul 03 14:13:03 2009> Failed to load audio/tryagain.wav
+<Fri Jul 03 14:13:03 2009> Tetris has initialized successfully.
+<Fri Jul 03 14:13:05 2009> Tetris has closed successfully.

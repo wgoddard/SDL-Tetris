@@ -1,0 +1,2 @@
+<Tue Aug 04 16:09:29 2009> Tetris has initialized successfully.
+<Tue Aug 04 16:09:30 2009> Tetris has closed successfully.
