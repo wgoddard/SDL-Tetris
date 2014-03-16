@@ -1,0 +1,9 @@
+/*.suo
+/*.ncb
+/Tetris/*.user
+/Tetris/Release
+/Tetris/Debug
+/Release/*.suo
+/Release/*.pdb
+/Debug/*.ilk
+/Debug/*.suo
